@@ -2,5 +2,5 @@
 
 
 int main(){
-	printf("Pozdrav iz aplikacije od Dino Brkic \n");
+	printf("Pozdrav iz aplikacije od Dino Brkic, broj indeksa nemam \n");
 }
